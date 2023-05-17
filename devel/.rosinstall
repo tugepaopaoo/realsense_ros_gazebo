@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/hahaha/realsense_ros_gazebo/devel/setup.sh
