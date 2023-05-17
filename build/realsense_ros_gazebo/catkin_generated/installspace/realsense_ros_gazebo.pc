@@ -1,8 +1,0 @@
-prefix=/home/hahaha/realsense_ros_gazebo/install
-
-Name: realsense_ros_gazebo
-Description: Description of realsense_ros_gazebo
-Version: 1.2.0
-Cflags: -I${prefix}/include
-Libs: -L${prefix}/lib 
-Requires: message_runtime gazebo_msgs roscpp nodelet geometry_msgs sensor_msgs urdf tf tf2_ros rosconsole std_msgs gazebo_ros image_transport camera_info_manager

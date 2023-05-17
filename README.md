@@ -117,6 +117,6 @@ export ROS_PACKAGE_PATH=$ROS_PACKAGE_PATH:/home/user/PX4_Firmware/Tools/sitl_gaz
   <img src="pictures/iris_D435i_modify.png" width = "400" />
 </p>
 
-- 将 `<pose>0.12 0 0 1.5708 0 1.5708</pose>` 修改为`<pose>0.12 0 0 1.5708 0 1.5708</pose>` 
+- 将 `<pose>0.25 0 0 1.5708 0 1.5708</pose>` 修改为`<pose>0.12 0 0 1.5708 0 1.5708</pose>` 
 
 - 将 `<child>D435i::realsense_camera_link</child>` 修改为 `<child>D435i::camera_link</child>`

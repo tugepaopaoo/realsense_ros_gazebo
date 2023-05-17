@@ -1,2 +1,0 @@
-realsense_ros_gazebo
--DCATKIN_DEVEL_PREFIX=/home/hahaha/realsense_ros_gazebo/devel -DCMAKE_INSTALL_PREFIX=/home/hahaha/realsense_ros_gazebo/install -G Unix Makefiles
